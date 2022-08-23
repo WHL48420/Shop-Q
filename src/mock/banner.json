@@ -1,0 +1,17 @@
+[{
+        "id": "101",
+        "imgUrl": "/images/home/banner1.jpg"
+    },
+    {
+        "id": "201",
+        "imgUrl": "/images/home/banner2.jpg"
+    },
+    {
+        "id": "301",
+        "imgUrl": "/images/home/banner3.jpg"
+    },
+    {
+        "id": "401",
+        "imgUrl": "/images/home/banner4.jpg"
+    }
+]

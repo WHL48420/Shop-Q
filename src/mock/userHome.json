@@ -1,0 +1,34 @@
+[{
+        "consignee": "史蒂芬啊",
+        "fullAddress": "北京北京市昌平区北七家镇宏福苑南一区0号楼0单元010",
+        "id": 1,
+        "isDefault": "1",
+        "phoneNum": "18101085318",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "北京市昌平区北七家镇宏福苑南一区0号楼0单元010",
+        "userId": 2
+    },
+    {
+        "consignee": "格玛",
+        "fullAddress": "北京通州区",
+        "id": 2,
+        "isDefault": "0",
+        "phoneNum": "18801999967",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "通州区",
+        "userId": 2
+    },
+    {
+        "consignee": "李强",
+        "fullAddress": "北京宏福苑南二区",
+        "id": 3,
+        "isDefault": "0",
+        "phoneNum": "13812341234",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "宏福苑南二区",
+        "userId": 2
+    }
+]
